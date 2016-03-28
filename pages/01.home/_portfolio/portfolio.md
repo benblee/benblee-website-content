@@ -10,7 +10,7 @@ portfolio:
         details: 'http://www.enrapturingentertainment.com'
     -
         title: Abnormal Office
-        description: 'Distraction free might mean OUTSIDE of walls.'
+        description: 'Distraction free office space'
         img: office-arizona.jpg
         content: 'At times creative thinking requires fresh air and a distraction free environment'
         tags: 'Creative Thinking, New Horizons'
