@@ -6,8 +6,6 @@ address:
         line: 'Ben Lee'
     -
         line: SmartGravity
-    -
-        line: '(404) 788-6691'
 email:
     -
         address: "benblee@smartgravity.com"
